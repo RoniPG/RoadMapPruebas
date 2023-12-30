@@ -1,0 +1,59 @@
+01:11:21 **** Rebuild of configuration Debug for project Retos_de_Programacion ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o SINTAXIS_VARIABLES_TIPOS_DE_DATOS_Y_HOLA_MUNDO_00.o "..\\SINTAXIS_VARIABLES_TIPOS_DE_DATOS_Y_HOLA_MUNDO_00.cpp" 
+..\SINTAXIS_VARIABLES_TIPOS_DE_DATOS_Y_HOLA_MUNDO_00.cpp: In function 'int main()':
+..\SINTAXIS_VARIABLES_TIPOS_DE_DATOS_Y_HOLA_MUNDO_00.cpp:10:8: warning: unused variable 'sh' [-Wunused-variable]
+  short sh = 0 ; // start= -32768; end = 32767 ;
+        ^~
+..\SINTAXIS_VARIABLES_TIPOS_DE_DATOS_Y_HOLA_MUNDO_00.cpp:11:6: warning: unused variable 'in' [-Wunused-variable]
+  int in = 0; // start= -2^31; end = 2^31 ;
+      ^~
+..\SINTAXIS_VARIABLES_TIPOS_DE_DATOS_Y_HOLA_MUNDO_00.cpp:12:12: warning: unused variable 'lo' [-Wunused-variable]
+  long long lo = 0; // start= -2^63; end = 2^63 ;
+            ^~
+..\SINTAXIS_VARIABLES_TIPOS_DE_DATOS_Y_HOLA_MUNDO_00.cpp:13:8: warning: unused variable 'fl' [-Wunused-variable]
+  float fl = 0.0; // ---> numeros decimales simples.
+        ^~
+..\SINTAXIS_VARIABLES_TIPOS_DE_DATOS_Y_HOLA_MUNDO_00.cpp:14:9: warning: unused variable 'dl' [-Wunused-variable]
+  double dl = 0.0; // ---> numeros decimales largos.
+         ^~
+..\SINTAXIS_VARIABLES_TIPOS_DE_DATOS_Y_HOLA_MUNDO_00.cpp:15:7: warning: unused variable 'bo' [-Wunused-variable]
+  bool bo = false; // ---> valores true, false(por defecto).
+       ^~
+..\SINTAXIS_VARIABLES_TIPOS_DE_DATOS_Y_HOLA_MUNDO_00.cpp:16:7: warning: unused variable 'ch' [-Wunused-variable]
+  char ch = 'a'; //---> valor para una letra/caracter.
+       ^~
+..\SINTAXIS_VARIABLES_TIPOS_DE_DATOS_Y_HOLA_MUNDO_00.cpp:20:12: warning: unused variable 'fi' [-Wunused-variable]
+  const int fi=0;
+            ^~
+g++ -o Retos_de_Programacion.exe SINTAXIS_VARIABLES_TIPOS_DE_DATOS_Y_HOLA_MUNDO_00.o 
+Info: Nothing to build for Retos_de_Programacion
+01:14:39 **** Incremental Build of configuration Debug for project Retos_de_Programacion ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o SINTAXIS_VARIABLES_TIPOS_DE_DATOS_Y_HOLA_MUNDO_00.o "..\\SINTAXIS_VARIABLES_TIPOS_DE_DATOS_Y_HOLA_MUNDO_00.cpp" 
+..\SINTAXIS_VARIABLES_TIPOS_DE_DATOS_Y_HOLA_MUNDO_00.cpp: In function 'int main()':
+..\SINTAXIS_VARIABLES_TIPOS_DE_DATOS_Y_HOLA_MUNDO_00.cpp:10:8: warning: unused variable 'sh' [-Wunused-variable]
+  short sh = 0 ; // start= -32768; end = 32767 ;
+        ^~
+..\SINTAXIS_VARIABLES_TIPOS_DE_DATOS_Y_HOLA_MUNDO_00.cpp:11:6: warning: unused variable 'in' [-Wunused-variable]
+  int in = 0; // start= -2^31; end = 2^31 ;
+      ^~
+..\SINTAXIS_VARIABLES_TIPOS_DE_DATOS_Y_HOLA_MUNDO_00.cpp:12:12: warning: unused variable 'lo' [-Wunused-variable]
+  long long lo = 0; // start= -2^63; end = 2^63 ;
+            ^~
+..\SINTAXIS_VARIABLES_TIPOS_DE_DATOS_Y_HOLA_MUNDO_00.cpp:13:8: warning: unused variable 'fl' [-Wunused-variable]
+  float fl = 0.0; // ---> numeros decimales simples con 7 decimales.
+        ^~
+..\SINTAXIS_VARIABLES_TIPOS_DE_DATOS_Y_HOLA_MUNDO_00.cpp:14:9: warning: unused variable 'dl' [-Wunused-variable]
+  double dl = 0.0; // ---> numeros decimales largos con 15 decimales.
+         ^~
+..\SINTAXIS_VARIABLES_TIPOS_DE_DATOS_Y_HOLA_MUNDO_00.cpp:15:7: warning: unused variable 'bo' [-Wunused-variable]
+  bool bo = false; // ---> valores: true, false(por defecto).
+       ^~
+..\SINTAXIS_VARIABLES_TIPOS_DE_DATOS_Y_HOLA_MUNDO_00.cpp:16:7: warning: unused variable 'ch' [-Wunused-variable]
+  char ch = 'a'; //---> valor para una letra/caracter.
+       ^~
+..\SINTAXIS_VARIABLES_TIPOS_DE_DATOS_Y_HOLA_MUNDO_00.cpp:20:12: warning: unused variable 'fi' [-Wunused-variable]
+  const int fi=0;
+            ^~
+g++ -o Retos_de_Programacion.exe SINTAXIS_VARIABLES_TIPOS_DE_DATOS_Y_HOLA_MUNDO_00.o 
