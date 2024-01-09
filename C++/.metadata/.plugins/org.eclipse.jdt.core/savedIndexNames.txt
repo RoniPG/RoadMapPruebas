@@ -1,2 +1,0 @@
-INDEX VERSION 1.131+C:\Users\roni0\Desktop\RetosProgramacion\C++\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index

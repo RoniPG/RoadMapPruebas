@@ -1,4 +1,5 @@
 	//@Roni
+
 public class SINTAXIS_VARIABLES_TIPOS_DE_DATOS_Y_HOLA_MUNDO_00 {
 
 	public static void main(String[] args) {
