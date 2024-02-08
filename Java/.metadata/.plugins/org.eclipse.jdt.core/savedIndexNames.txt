@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\Users\roni0\Desktop\RoadMap\Java\.metadata\.plugins\org.eclipse.jdt.core
-906071729.index
-433703135.index
-1865797976.index
