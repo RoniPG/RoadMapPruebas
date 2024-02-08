@@ -38,7 +38,7 @@ int main() {
 
 	//Ordenar
 
-	/* No existe un metodo que ordene automaticamente el array como en java.
+	/* No existe un metodo que ordene automaticamente el array.
 	 * Pero podemos implementar funciones que realizen esta funcion.
 	 * Disponemos de varias funciones com podrian ser: Burbuja, Quicksort, entre otros.
 	 */
